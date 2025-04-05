@@ -3,16 +3,16 @@
 	background-color:rgb(135, 206, 235);
 }
 
-div :first-child {
+article :first-child {
 	background-color:black;
 	color:white;
 }
 
-div :nth-child(2) {
+article :nth-child(2) {
 	color:black;
 }
 
-div :last-child {
+article :last-child {
 	color:red;
 }
 
